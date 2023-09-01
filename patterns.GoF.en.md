@@ -1,6 +1,6 @@
-# patterns GoF | 23
+# patterns GoF (23)
 
-## Creational Patterns | 5
+## Creational Patterns (5)
 
 1. **Singleton:** Ensures a class has only one instance and provides a global point of access to that instance.
 2. **Factory Method:** Defines an interface for creating an object but allows subclasses to alter the type of objects that will be created.
@@ -8,7 +8,7 @@
 4. **Builder:** Separates the construction of a complex object from its representation, allowing the same construction process to create various representations.
 5. **Prototype:** Allows the creation of new objects by copying an existing object, known as the prototype.
 
-## Structural Patterns | 7
+## Structural Patterns (7)
 
 1. **Adapter:** Allows incompatible interfaces to work together by converting the interface of one class into one expected by the client.
 2. **Bridge:** Separates an object's abstraction from its implementation so that the two can vary independently.
@@ -18,7 +18,7 @@
 6. **Flyweight:** Shares a common set of objects efficiently to conserve resources when many instances with the same data are needed.
 7. **Proxy:** Controls access to an object by providing a surrogate or placeholder for another object.
 
-## Behavioral Patterns | 11
+## Behavioral Patterns (11)
 
 1. **Chain of Responsibility:** Passes a request along a chain of handlers. Each handler decides either to process the request or to pass it to the next handler.
 2. **Command:** Encapsulates a request as an object, thereby allowing for parameterization of clients with queuable requests, requests that can be undone, and support for logging.
