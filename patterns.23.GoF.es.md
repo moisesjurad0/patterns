@@ -1,6 +1,6 @@
-# patterns GoF | 23
+# patterns GoF (23)
 
-## Patrones Creacionales | 5
+## Patrones Creacionales (5)
 
 1. **Singleton:** Asegura que una clase tenga solo una instancia y proporciona un punto de acceso global a esa instancia.
 2. **Factory Method:** Define una interfaz para crear un objeto, pero permite a las subclases alterar el tipo de objetos que se crean.
@@ -8,7 +8,7 @@
 4. **Builder:** Separar la construcción de un objeto complejo de su representación, permitiendo la creación de diferentes representaciones.
 5. **Prototype:** Permite la creación de nuevos objetos copiando un objeto existente, conocido como prototipo.
 
-## Patrones Estructurales | 7
+## Patrones Estructurales (7)
 
 1. **Adapter:** Permite que interfaces incompatibles trabajen juntas, convirtiendo la interfaz de una clase en otra esperada por el cliente.
 2. **Bridge:** Separa una abstracción de su implementación para que ambas puedan variar independientemente.
@@ -18,7 +18,7 @@
 6. **Flyweight:** Comparte de manera eficiente objetos que son utilizados comúnmente para conservar recursos.
 7. **Proxy:** Controla el acceso a un objeto proporcionando un representante o sustituto.
 
-## Patrones de Comportamiento | 11
+## Patrones de Comportamiento (11)
 
 1. **Chain of Responsibility:** Permite pasar una solicitud a lo largo de una cadena de manejadores. Cada manejador decide si procesa la solicitud o la pasa al siguiente.
 2. **Command:** Encapsula una solicitud como un objeto, permitiendo parametrizar los objetos con operaciones y realizar operaciones encoladas, reversibles o registrables.

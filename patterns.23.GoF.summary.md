@@ -1,6 +1,6 @@
-# patterns GoF | 23
+# patterns GoF (23)
 
-## Creational Patterns | 5
+## Creational Patterns (5)
 
 1. **Singleton**
 2. **Factory Method**
@@ -8,7 +8,7 @@
 4. **Builder**
 5. **Prototype**
 
-## Structural Patterns | 7
+## Structural Patterns (7)
 
 1. **Adapter**
 2. **Bridge**
@@ -18,7 +18,7 @@
 6. **Flyweight**
 7. **Proxy**
 
-## Behavioral Patterns | 11
+## Behavioral Patterns (11)
 
 1. **Chain of Responsibility**
 2. **Command**
