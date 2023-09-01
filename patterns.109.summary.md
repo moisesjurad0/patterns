@@ -99,7 +99,7 @@
 44. Thread-Specific Storage
 45. Thread-Safe Interface
 
-## Patrones Arquitectónicos (19)
+## Patrones Arquitectónicos (22)
 
 1. Model-View-Controller (MVC)
 2. Model-View-Presenter (MVP)
