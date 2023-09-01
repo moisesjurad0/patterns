@@ -1,6 +1,6 @@
 # Patterns (62)
 
-## Creational Patterns (7)
+## 1. Creational Patterns (7)
 
 1. Singleton
 2. Factory Method
@@ -10,7 +10,7 @@
 6. Object Pool
 7. Dependency Injection
 
-## Structural Patterns (11)
+## 2. Structural Patterns (11)
 
 1. Adapter
 2. Bridge
@@ -24,7 +24,7 @@
 10. Faceted
 11. Pluggable Selector
 
-## Behavioral Patterns (17)
+## 3. Behavioral Patterns (17)
 
 1. Chain of Responsibility
 2. Command
@@ -44,7 +44,7 @@
 16. Event Aggregator
 17. Publish-Subscribe
 
-## Architectural Patterns (15)
+## 4. Architectural Patterns (15)
 
 1. Model-View-Controller (MVC)
 2. Model-View-Presenter (MVP)
@@ -62,7 +62,7 @@
 14. Pipes and Filters
 15. Blackboard Pattern
 
-## Concurrency Patterns (8)
+## 5. Concurrency Patterns (8)
 
 1. Active Object
 2. Monitor Object
@@ -73,7 +73,7 @@
 7. Balking Pattern
 8. Barrier Pattern
 
-## Anti-Patterns (4)
+## 6. Anti-Patterns (4)
 
 1. Big Ball of Mud
 2. Spaghetti Code
